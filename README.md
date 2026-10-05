@@ -6,7 +6,7 @@ I build web applications, backend APIs, and developer tools using Python, TypeSc
 
 ## Selected Projects
 
-- **KPI Dashboard** — Built an Angular dashboard for PLNU's Director of Institutional Research to track departmental metrics and multi-year trends. Created reusable components with Tailwind CSS and ApexCharts, integrated Google Sheets data, and worked with the client through weekly meetings.
+- **KPI Dashboard**(Privated repo for confidentiality) — Built an Angular dashboard for PLNU's Director of Institutional Research to track departmental metrics and multi-year trends. Created reusable components with Tailwind CSS and ApexCharts, integrated Google Sheets data, and worked with the client through weekly meetings.
 
 - **[Job Tracker API](https://github.com/jb-pryor/job-tracker-api)** — Built a backend with FastAPI, PostgreSQL, and SQLAlchemy for managing job applications. Includes user registration, JWT authentication, Argon2 password hashing, database migrations with Alembic, and automated tests through GitHub Actions.
 
